@@ -1,0 +1,29 @@
+{
+  "abaddon": {
+    "name": "abaddon",
+    "icon": "npc_dota_hero_abaddon_png.png",
+    "attackDamageMin": "20",
+    "attackDamageMax": "45",
+    "moveSpeed": "200",
+    "mana": "200",
+    "health": "1000"
+  },
+  "abyssal_underlord": {
+    "name": "abyssal_underlord",
+    "icon": "npc_dota_hero_abyssal_underlord_png.png",
+    "attackDamageMin": "15",
+    "attackDamageMax": "40",
+    "moveSpeed": "210",
+    "mana": "990",
+    "health": "700"
+  },
+  "sven": {
+    "name": "sven",
+    "icon": "npc_dota_hero_sven_png.png",
+    "attackDamageMin": "29",
+    "attackDamageMax": "31",
+    "moveSpeed": "220",
+    "mana": "1200",
+    "health": "800"
+  }
+}

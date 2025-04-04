@@ -1,0 +1,22 @@
+{
+  "item_blink": {
+    "AbilityBehavior": "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES | DOTA_ABILITY_BEHAVIOR_OVERSHOOT",
+    "AbilityCastRange": "1200",
+    "AbilityOvershootCastRange": "960",
+    "AbilityCastPoint": "0.0",
+    "AbilityCooldown": "15.0",
+    "AbilityManaCost": "0",
+    "AbilitySharedCooldown": "blink",
+    "ItemCost": "2250",
+    "ItemShopTags": "teleport",
+    "ItemQuality": "component",
+    "ItemAliases": "blink dagger",
+    "ItemDeclarations": "DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_IN_SPEECH | DECLARE_PURCHASES_TO_SPECTATORS",
+    "SuggestLategame": "1",
+    "AbilityValues": {
+      "blink_range": "1200",
+      "blink_damage_cooldown": "3.0",
+      "blink_range_clamp": "960"
+    }
+  }
+}
