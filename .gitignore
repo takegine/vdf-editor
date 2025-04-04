@@ -1,0 +1,3 @@
+
+/build/ # 忽略整个build目录
+!build/win-unpacked/assets/ # 显式保留assets（需验证路径有效性）
