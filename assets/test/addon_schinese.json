@@ -1,7 +1,0 @@
-{
-    "DOTA_Tooltip_ability_item_blink": "闪烁匕首",
-    "DOTA_Tooltip_ability_item_blink_Description": "<h1>主动：闪烁</h1>传送到最远%blink_range%距离的位置。<br><br>受到来自敌方英雄或肉山的攻击时，闪烁匕首将在%blink_damage_cooldown%秒内无法使用。",
-    "DOTA_Tooltip_ability_item_blink_Lore": "传说中这片大陆上来去如风的刺客使用的匕首。",
-    "DOTA_Tooltip_ability_item_blink_Note0": "快速点击两次会将自己往己方泉水方向传送。",
-    "DOTA_Tooltip_ability_item_blink_Note1": "如果闪烁传送的距离超过最长施法距离，那么只能传送到最长距离的4/5。"
-}
